@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidProgrammerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="animation_button">Animation Test</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_login">ChatActivity</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+
+</resources>
